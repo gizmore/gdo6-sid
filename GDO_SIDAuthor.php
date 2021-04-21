@@ -5,7 +5,7 @@ use GDO\Core\GDO;
 use GDO\DB\GDT_AutoInc;
 use GDO\DB\GDT_String;
 use GDO\DB\GDT_CreatedAt;
-use GDO\Date\GDT_Birthdate;
+use GDO\Birthday\GDT_Birthdate;
 use GDO\DB\GDT_CreatedBy;
 
 final class GDO_SIDAuthor extends GDO
